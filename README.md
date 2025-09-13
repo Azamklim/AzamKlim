@@ -5,18 +5,18 @@
 
 <br/>
 
-I'm a *full stack desktop developer* passionate about building practical, ready-to-use applications with *C#, SQL Server, and C++*.  
-I focus on *clean architecture, clear code, and delivering **real results*—no unnecessary complexity.  
+I'm a full stack desktop developer passionate about building practical, ready-to-use applications with C#, SQL Server, and C++.  
+I focus on clean architecture, clear code, and delivering **real results—no unnecessary complexity.  
 
 ---
 
 ### 🧠 About Me
 
-- 🔐 Developed a full *License Issuance System* for driver management, approvals, and secure printing  
-- 🧱 Strong experience with *SQL Server* and *C# WinForms*  
-- 🧠 Follow a *layered architecture* (Presentation, Business, Data) and precise function naming  
-- 💬 Open to questions on desktop development—*I give practical answers*  
-- 🌍 Seeking *remote desktop development opportunities* in the Gulf region  
+- 🔐 Developed a full License Issuance System for driver management, approvals, and secure printing  
+- 🧱 Strong experience with SQL Server and C# WinForms  
+- 🧠 Follow a layered architecture (Presentation, Business, Data) and precise function naming  
+- 💬 Open to questions on desktop development—I give practical answers  
+- 🌍 Seeking remote desktop development opportunities in the Gulf region  
 
 ---
 
@@ -36,7 +36,7 @@ I focus on *clean architecture, clear code, and delivering **real results*—no 
 
 ### 🛠 Featured Project
 
-- [*DVLD License System](https://mostaql.com/portfolio/2563138-dvld-manage-licenses-system) – Desktop application for license management. Built with **C#* and *SQL Server*, featuring driver modules, application handling, user management, and secure printing.
+- [DVLD License System](https://mostaql.com/portfolio/2563138-dvld-manage-licenses-system) – Desktop application for license management. Built with **C# and SQL Server, featuring driver modules, application handling, user management, and secure printing.
 
 ---
 
@@ -60,7 +60,7 @@ I focus on *clean architecture, clear code, and delivering **real results*—no 
 ---
 
 > Practical code. Clean results. No fluff.  
-> If you want a developer who *delivers without the drama*, I'm your guy.
+> If you want a developer who delivers without the drama, I'm your guy.
 
 ---
 
