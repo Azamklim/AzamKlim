@@ -1,22 +1,16 @@
 ## 👋 Hi, I'm عزّام كليم أبوبكر
 
-<a href='https://www.linkedin.com/in/azzaam-dev'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/azzaam_dev'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-
-<br/>
-
-I'm a full stack desktop developer passionate about building practical, ready-to-use applications with C#, SQL Server, and C++.  
-I focus on clean architecture, clear code, and delivering **real results—no unnecessary complexity.  
+I'm a *full stack desktop developer* specializing in *C#, C++, and SQL Server*.  
+I focus on *clean architecture, maintainable code, and practical solutions that deliver **real results*.  
 
 ---
 
 ### 🧠 About Me
 
-- 🔐 Developed a full License Issuance System for driver management, approvals, and secure printing  
-- 🧱 Strong experience with SQL Server and C# WinForms  
-- 🧠 Follow a layered architecture (Presentation, Business, Data) and precise function naming  
-- 💬 Open to questions on desktop development—I give practical answers  
-- 🌍 Seeking remote desktop development opportunities in the Gulf region  
+- 🔐 Experienced in developing desktop applications with *C# WinForms* and *SQL Server*  
+- 🧱 Follow a *layered architecture* (Presentation, Business, Data)  
+- 💬 Open to technical discussions on desktop development  
+- 🌍 *Looking for job opportunities* in desktop application development  
 
 ---
 
@@ -36,31 +30,14 @@ I focus on clean architecture, clear code, and delivering **real results—no un
 
 ### 🛠 Featured Project
 
-- [DVLD License System](https://mostaql.com/portfolio/2563138-dvld-manage-licenses-system) – Desktop application for license management. Built with **C# and SQL Server, featuring driver modules, application handling, user management, and secure printing.
+- [*My Desktop Project](#) – A **full-featured desktop application* built with *C# and SQL Server*, following clean architecture principles. It includes modular design for easy maintenance and provides practical solutions for real-world desktop workflows.  
 
----
-
-### 🛠 My Projects
-
-<p align="left">
-  <a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank">
-    <img alt="artistify" src="./projects/artistify.svg" height="68" />
-  </a>
-  <a href="https://rahul-jha98.github.io/sheets-database/" target="_blank">
-    <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg" height="68" />
-  </a>
-  <a href="https://github.com/rahul-jha98/README_icons" target="_blank">
-    <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" />
-  </a>
-  <a href="https://thepasswordkeeper.netlify.app/" target="_blank">
-    <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" />
-  </a>
-</p>
+> Description is ready—you can replace the # with your project link when you upload it.
 
 ---
 
 > Practical code. Clean results. No fluff.  
-> If you want a developer who delivers without the drama, I'm your guy.
+> If you want a developer who *delivers without the drama*, I'm your guy.
 
 ---
 
