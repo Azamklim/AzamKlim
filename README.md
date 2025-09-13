@@ -32,7 +32,14 @@ I focus on *clean architecture, maintainable code, and practical solutions that 
 
 - [*My Desktop Project](#) – A **full-featured desktop application* built with *C# and SQL Server*, following clean architecture principles. It includes modular design for easy maintenance and provides practical solutions for real-world desktop workflows.  
 
-> Description is ready—you can replace the # with your project link when you upload it.
+
+- [*Driver License Management System](#) – A desktop application for managing **drivers and licenses*.  
+  It provides:
+  - تسجيل وإدارة بيانات السائقين
+  - إصدار وحذف الرخص
+  - حجز مواعيد اختبار القيادة
+  - تنظيم جميع الإجراءات بسلاسة وبواجهة سهلة الاستخدام
+  - Built with *C# and SQL Server, following a **layered architecture* (Presentation, Business, Data) for clean and maintainable code..
 
 ---
 
