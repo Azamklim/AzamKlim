@@ -1,54 +1,55 @@
-## 👋 Hi, I'm عزّام كليم أبوبكر
+## مرحبًا 👋، أنا عزّام | مطور تطبيقات سطح مكتب
+<a href='[رابط حسابك على LinkedIn هنا]'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='mailto:Azamklim89@gmail.com'><img align='left' alt="email" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/gmail.svg" height='18px'/></a>
+<a href='https://github.com/[اسم مستخدم GitHub الخاص بك هنا]'><img alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 
-I'm a *full stack desktop developer* specializing in *C#, C++, and SQL Server*.  
-I focus on *clean architecture, maintainable code, and practical solutions that deliver **real results*.  
-
----
-
-### 🧠 About Me
-
-- 🔐 Experienced in developing desktop applications with *C# WinForms* and *SQL Server*  
-- 🧱 Follow a *layered architecture* (Presentation, Business, Data)  
-- 💬 Open to technical discussions on desktop development  
-- 🌍 *Looking for job opportunities* in desktop application development  
-
----
-
-### 🔨 Languages & Tools
-
-<p align="left">
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C#" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg"></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="SQL Server" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sql/sql.svg"></a>
-<a href="https://learn.microsoft.com/en-us/cpp/" target="_blank"><img alt="C++" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/visualstudio/visualstudio.svg"></a>
-</p>
-
+مطور **تطبيقات سطح مكتب متكاملة (Full-Stack Desktop)** متخصص في تصميم وتنفيذ أنظمة الأعمال باستخدام **هندسة الطبقات الثلاث (3-Tier Architecture)**. لدي خبرة قوية في تحويل المتطلبات المعقدة إلى أنظمة مستقرة وقابلة للتطوير والصيانة.
+<br/>
 <br/>
 
----
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI2dW1tY2V1bGQ5Z2NqY3RkN2g2dWxqY2V4cGx1b2NjbjBqemZlc3B6eGZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LEEfmlFxCUCtVQdDwK/giphy.gif" width="360px"/>
+  
+### 🧐 المزيد عني وخبراتي:
 
-### 🛠 Featured Project
+- 🔭 &nbsp; أعمل حاليًا على **تطوير أنظمة أعمال متكاملة باستخدام Windows Forms و WPF**
+- 🏗️ &nbsp; متخصص في تطوير الأنظمة باستخدام **هندسة الطبقات الثلاث (3-Layer Architecture)**:
+  -   **طبقة العرض (Presentation Layer):** واجهات مستخدم بديهية باستخدام WinForms & WPF.
+  -   **طبقة الأعمال (Business Logic Layer):** معالجة القواعد والعمليات المنطقية للتطبيق.
+  -   **طبقة البيانات (Data Access Layer):** التواصل الفعال مع قواعد البيانات (SQL Server, SQLite).
+- 👨🏻‍💻 &nbsp; لدي خبرة عملية في تطوير **نظام متكامل لإدارة رخص السواقين** يشمل:
+  -   إصدار الرخص ومراقبة تاريخ انتهائها.
+  -   إدارة بيانات السواقين والمخالفات.
+  -   إصدار التقارير والإحصائيات.
+- 💬 &nbsp; اسألني عن أي شيء يتعلق بـ **هندسة البرمجيات، أنماط التصميم (Design Patterns)، C#، أو إدارة قواعد البيانات**.
+- 📫 &nbsp; أفضل طريقة للتواصل معي: **Azamklim89@gmail.com**
+- ⚡ &nbsp; حقق إنجاز: أكملت **+24 دورة** متخصصة في تطوير تطبيقات سطح المكتب.
 
-- [*My Desktop Project](#) – A **full-featured desktop application* built with *C# and SQL Server*, following clean architecture principles. It includes modular design for easy maintenance and provides practical solutions for real-world desktop workflows.  
+<br>
 
+### 🔨 **تقنيات وأدوات تطوير سطح المكتب:**
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg" title="C# - لغتي الأساسية"/></a>
+<a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg" title="C++"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dot-net/dot-net.svg" title=".NET Framework"/></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank"><img align="left" alt="WinForms" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/.NET_Foundation_logo.png" title="Windows Forms"/></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/" target="_blank"><img align="left" alt="WPF" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_.NET_logo.png" title="Windows Presentation Foundation (WPF)"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL Server" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sql%20server/sql%20server.svg" title="Microsoft SQL Server"/></a>
+<a href="https://sqlite.org/index.html" target="_blank"><img align="left" alt="SQLite" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sqlite/sqlite.svg" title="SQLite"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px' title="Git - تحكم بالإصدارات"/></a>
 
-- [*Driver License Management System](#) – A desktop application for managing **drivers and licenses*.  
-  It provides:
-  - تسجيل وإدارة بيانات السائقين
-  - إصدار وحذف الرخص
-  - حجز مواعيد اختبار القيادة
-  - تنظيم جميع الإجراءات بسلاسة وبواجهة سهلة الاستخدام
-  - Built with *C# and SQL Server, following a **layered architecture* (Presentation, Business, Data) for clean and maintainable code..
+<br>
+<br>
+<br>
 
----
+### 🛠️ **أبرز المشاريع:**
 
-> Practical code. Clean results. No fluff.  
-> If you want a developer who *delivers without the drama*, I'm your guy.
+- **🚗 [نظام إدارة رخص السواقين](رابط المشروع على GitHub هنا)** –
+  -   **وصف المشروع:** نظام شامل لإدارة كامل عملية إصدار ومتابعة رخص القيادة.
+  -   **التقنيات:** C# .NET، Windows Forms، SQL Server.
+  -   **الهندسة:** مبني وفق **هندسة الطبقات الثلاث (3-Tier)** لضمان Modularity وقابلية الصيانة.
+  -   **الميزات:** إصدار الرخص، تجديدها،追踪 المخالفات، وإصدار تقارير تفصيلية.
 
----
+- **⚙️ [أدوات إنتاجية مخصصة](رابط المشروع على GitHub هنا)** – أداوت لتحسين سير العمل باستخدام **C++**.
 
-### 📈 GitHub Stats
+- **🧰 [أنظمة إدارية أخرى](رابط المشروع على GitHub هنا)** – تطبيقات محاسبة وتعليمية صممتها ونفذتها من البداية للنهاية.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azzaam-dev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azzaam-dev&layout=compact&theme=radical)
+*👉 لمشاهدة الكود المصدر وتفاصيل التنفيذ، تفضل بزيارة [صفحة المستودعات الخاصة بي](https://github.com/[اسم مستخدم GitHub الخاص بك هنا]?tab=repositories).*
