@@ -18,7 +18,7 @@
 
   <h3>📫 Contact</h3>
   <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-  <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+  <p>GitHub: <a href="https://github.com/Azamklim">github.com/Azamklim</a></p>
 </div>## Hi there 👋
 
 <!--
